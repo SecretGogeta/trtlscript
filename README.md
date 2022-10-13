@@ -1,0 +1,2 @@
+# trtlscript
+mining script
